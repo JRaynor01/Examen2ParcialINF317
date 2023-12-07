@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Proyecto de Integration Services11", "Proyecto de Integration Services11\Proyecto de Integration Services11.dtproj", "{CDD2501E-D1B8-4451-95C0-4147B792BA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD2501E-D1B8-4451-95C0-4147B792BA42}.Development|Default.ActiveCfg = Development
+		{CDD2501E-D1B8-4451-95C0-4147B792BA42}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
